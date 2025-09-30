@@ -10,5 +10,5 @@ void main() {
     boolean incluidoNoPlano = true;
     double notaDofilme = 8.3;
     String nomeDoFilme = "Scarface";
-    string nomeDoDiretor = "Diretor";
+    String nomeDoDiretor = "Diretor";
 }
