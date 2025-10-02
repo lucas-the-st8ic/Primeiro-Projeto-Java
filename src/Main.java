@@ -29,6 +29,7 @@ void main() {
 
     System.out.println(nomeDoFilme + "\n Ano de Lançamento: " + anoDeLancamento + "\n" + sinopse);
 
-    int classificacao;
-    classificacao = (int) (media / 2);
+    int classificacao = (int) (media / 2);
+
+    System.out.println(classificacao + " Estrelas");
 }
