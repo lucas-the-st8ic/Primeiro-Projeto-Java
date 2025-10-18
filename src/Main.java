@@ -17,7 +17,7 @@ void main() {
     String nomeDoDiretor = "Diretor";
     String sinopse = """
             Após receber residência permanente nos Estados Unidos
-            em troca do assassinato de um oficial 
+            em troca do assassinato de um oficial
             do governo cubano,
              Tony Montana se torna o chefe do tráfico 
              de drogas em Miami.
