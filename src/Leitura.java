@@ -15,6 +15,4 @@ void main() {
     System.out.println("Ano de lançamento: " + anoDeLancamento);
     System.out.println("Nota do filme: " + notaDoFilme);
 
-
-
 }
